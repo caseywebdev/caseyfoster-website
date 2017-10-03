@@ -1,5 +1,5 @@
 {
-  "images": [
+  "tags": [
     "coderiety/caseyfoster-website:{{REF}}",
     "coderiety/caseyfoster-website:{{SHA}}"
   ]
