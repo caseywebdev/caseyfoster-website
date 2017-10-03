@@ -1,0 +1,6 @@
+{
+  "images": [
+    "coderiety/caseyfoster-website:{{REF}}",
+    "coderiety/caseyfoster-website:{{SHA}}"
+  ]
+}
